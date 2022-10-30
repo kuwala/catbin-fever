@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: cfef64eca6f7060498a6784a34afadd7
+  - enabled: 1
+    path: Assets/Scenes/Outside Gaias.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Gaias House Inside.unity
+    guid: 0e31499406d6fcb4186a4e137891e23d
+  - enabled: 1
+    path: Assets/Scenes/Tushy Island - Original.unity
+    guid: e15c3c0f4bd9cde4e99294578512bdd1
+  m_configObjects: {}

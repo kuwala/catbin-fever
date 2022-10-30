@@ -1,0 +1,822 @@
+fileFormatVersion: 2
+guid: 44eda86862d814943b3a539084eab836
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5868090289903666759
+    second: Tushies 2 Bushies 2_0
+  - first:
+      213: -3984436450023937607
+    second: Tushies 2 Bushies 2_1
+  - first:
+      213: -5679739401998561463
+    second: Tushies 2 Bushies 2_2
+  - first:
+      213: 3953888622911840475
+    second: Tushies 2 Bushies 2_3
+  - first:
+      213: 5225503087290135803
+    second: Tushies 2 Bushies 2_4
+  - first:
+      213: 2349833581397871338
+    second: Tushies 2 Bushies 2_5
+  - first:
+      213: -8086617700435401384
+    second: Tushies 2 Bushies 2_6
+  - first:
+      213: -7074757961880321504
+    second: Tushies 2 Bushies 2_7
+  - first:
+      213: 4466927667077243317
+    second: Tushies 2 Bushies 2_8
+  - first:
+      213: 2278901672510295139
+    second: Tushies 2 Bushies 2_9
+  - first:
+      213: -5824410467070683753
+    second: Tushies 2 Bushies 2_10
+  - first:
+      213: 7092386992503642142
+    second: Tushies 2 Bushies 2_11
+  - first:
+      213: 6574142930914948397
+    second: Tushies 2 Bushies 2_12
+  - first:
+      213: -7201056588292256036
+    second: Tushies 2 Bushies 2_13
+  - first:
+      213: -3368870550418442909
+    second: Tushies 2 Bushies 2_14
+  - first:
+      213: 8497107004193759378
+    second: Tushies 2 Bushies 2_15
+  - first:
+      213: -6105935723433331571
+    second: Tushies 2 Bushies 2_16
+  - first:
+      213: -2334509017904136110
+    second: Tushies 2 Bushies 2_17
+  - first:
+      213: 727333168095633183
+    second: Tushies 2 Bushies 2_18
+  - first:
+      213: 7594964974341257901
+    second: Tushies 2 Bushies 2_19
+  - first:
+      213: -7990064457251590053
+    second: Tushies 2 Bushies 2_20
+  - first:
+      213: -3319994057451249127
+    second: Tushies 2 Bushies 2_21
+  - first:
+      213: -1364777235721417658
+    second: Tushies 2 Bushies 2_22
+  - first:
+      213: -1980940013427710122
+    second: Tushies 2 Bushies 2_23
+  - first:
+      213: 2170242503965124772
+    second: Tushies 2 Bushies 2_24
+  - first:
+      213: -1586809060059484252
+    second: Tushies 2 Bushies 2_25
+  - first:
+      213: 1505986672493848141
+    second: Tushies 2 Bushies 2_26
+  - first:
+      213: -3093255270905138003
+    second: Tushies 2 Bushies 2_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 164
+        width: 67
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4321704e1afed34488cbaa5b333a14f7
+      internalID: -5868090289903666759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 163
+        width: 74
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8143657c691bb649849acb8da207b43
+      internalID: -3984436450023937607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 162
+        width: 74
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fe5ed133f77c349b9dfca533841fb0
+      internalID: -5679739401998561463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 163
+        width: 75
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94479ce662cd59b4bb5df63ee072fc06
+      internalID: 3953888622911840475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 167
+        width: 72
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fc6b6b14fffbf4e99dd9b7492b9b06
+      internalID: 5225503087290135803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_5
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 169
+        width: 60
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319b7a801e5a73f4d823d98e6152bca1
+      internalID: 2349833581397871338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_6
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 166
+        width: 59
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8235a83b2a5f6874291f7e636a27aee9
+      internalID: -8086617700435401384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 121
+        width: 49
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e67535b20274146bf0b1ea52291d69
+      internalID: -7074757961880321504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 118
+        width: 55
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0e7cbb9c740be4fa6e159f1600db55
+      internalID: 4466927667077243317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_9
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 114
+        width: 60
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715419b54e27b6e4eb378b03bed4440e
+      internalID: 2278901672510295139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 110
+        width: 60
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d5cab41b56ba543bea26493d0c8ee6
+      internalID: -5824410467070683753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_11
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 108
+        width: 58
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136f81a2f15cd67408ba3935dff9a6f8
+      internalID: 7092386992503642142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_12
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 115
+        width: 60
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4347649620544cb4293708283eb058ba
+      internalID: 6574142930914948397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_13
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 117
+        width: 43
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc54d341d2fec8c419f7b2ef36daef47
+      internalID: -7201056588292256036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 54
+        width: 61
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33c0e061674a064483e3b27fba3be5a
+      internalID: -3368870550418442909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 54
+        width: 61
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f50238bfd33a934b87b2400046a3c55
+      internalID: 8497107004193759378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 54
+        width: 57
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2110db4c54164204689b2c4fc7712ee8
+      internalID: -6105935723433331571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_17
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 54
+        width: 57
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4026dc3c4e917459fb8e519cc94416
+      internalID: -2334509017904136110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_18
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 56
+        width: 66
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bef2a8e6ccdd349822ac36497c64d0
+      internalID: 727333168095633183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_19
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 56
+        width: 66
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49037ce45a6f7d7499086f959b8a4bda
+      internalID: 7594964974341257901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_20
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 56
+        width: 51
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43331903f778f2b4fb69062c0f9a238d
+      internalID: -7990064457251590053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 16
+        width: 33
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1857ff6d6882b4fb09d1430215f3dd
+      internalID: -3319994057451249127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 16
+        width: 37
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8cd1637801fb34daf189b1dc19c986
+      internalID: -1364777235721417658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_23
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 15
+        width: 44
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3f30ed583f30f418eadcbb4942f193
+      internalID: -1980940013427710122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_24
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 12
+        width: 67
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defbfae28d0a3f04fb70e86d2c359e7b
+      internalID: 2170242503965124772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_25
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 12
+        width: 83
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7706dfe4bb11a4bb88389c56bc8784
+      internalID: -1586809060059484252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_26
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 12
+        width: 92
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b7d734cea752b45b9e59814bac8129
+      internalID: 1505986672493848141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tushies 2 Bushies 2_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 14
+        width: 95
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1bd0de85265254a813bc39f7eae269
+      internalID: -3093255270905138003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tushies 2 Bushies 2_1: -3984436450023937607
+      Tushies 2 Bushies 2_7: -7074757961880321504
+      Tushies 2 Bushies 2_3: 3953888622911840475
+      Tushies 2 Bushies 2_17: -2334509017904136110
+      Tushies 2 Bushies 2_19: 7594964974341257901
+      Tushies 2 Bushies 2_9: 2278901672510295139
+      Tushies 2 Bushies 2_22: -1364777235721417658
+      Tushies 2 Bushies 2_12: 6574142930914948397
+      Tushies 2 Bushies 2_25: -1586809060059484252
+      Tushies 2 Bushies 2_27: -3093255270905138003
+      Tushies 2 Bushies 2_26: 1505986672493848141
+      Tushies 2 Bushies 2_2: -5679739401998561463
+      Tushies 2 Bushies 2_8: 4466927667077243317
+      Tushies 2 Bushies 2_15: 8497107004193759378
+      Tushies 2 Bushies 2_0: -5868090289903666759
+      Tushies 2 Bushies 2_10: -5824410467070683753
+      Tushies 2 Bushies 2_21: -3319994057451249127
+      Tushies 2 Bushies 2_4: 5225503087290135803
+      Tushies 2 Bushies 2_11: 7092386992503642142
+      Tushies 2 Bushies 2_6: -8086617700435401384
+      Tushies 2 Bushies 2_14: -3368870550418442909
+      Tushies 2 Bushies 2_24: 2170242503965124772
+      Tushies 2 Bushies 2_23: -1980940013427710122
+      Tushies 2 Bushies 2_20: -7990064457251590053
+      Tushies 2 Bushies 2_18: 727333168095633183
+      Tushies 2 Bushies 2_5: 2349833581397871338
+      Tushies 2 Bushies 2_13: -7201056588292256036
+      Tushies 2 Bushies 2_16: -6105935723433331571
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,472 @@
+fileFormatVersion: 2
+guid: 591280d5780a78f45ace2864c0cb76a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 136668335945472956
+    second: tushies 3 bushies 3_0
+  - first:
+      213: 5634104697112624725
+    second: tushies 3 bushies 3_1
+  - first:
+      213: 8684804046186478168
+    second: tushies 3 bushies 3_2
+  - first:
+      213: -5524766805851192524
+    second: tushies 3 bushies 3_3
+  - first:
+      213: 3550301589742157072
+    second: tushies 3 bushies 3_4
+  - first:
+      213: -7714338763560435845
+    second: tushies 3 bushies 3_5
+  - first:
+      213: -812791818324570715
+    second: tushies 3 bushies 3_6
+  - first:
+      213: 7361155131086667879
+    second: tushies 3 bushies 3_7
+  - first:
+      213: -2087886371295272845
+    second: tushies 3 bushies 3_8
+  - first:
+      213: -1378272702993883912
+    second: tushies 3 bushies 3_9
+  - first:
+      213: -8318115603772757816
+    second: tushies 3 bushies 3_10
+  - first:
+      213: 8076110729880306084
+    second: tushies 3 bushies 3_11
+  - first:
+      213: -7075810473198220754
+    second: tushies 3 bushies 3_12
+  - first:
+      213: 747012839133393992
+    second: tushies 3 bushies 3_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tushies 3 bushies 3_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 170
+        width: 104
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acf2a524723a664c892fb143a4991b1
+      internalID: 136668335945472956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tushies 3 bushies 3_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 170
+        width: 104
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adade3e9f195af4bb95f66f80a1e096
+      internalID: 5634104697112624725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tushies 3 bushies 3_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 170
+        width: 104
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edb0bef5c8d8014a981a2ef09285b27
+      internalID: 8684804046186478168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tushies 3 bushies 3_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 170
+        width: 104
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fda4ec860c86446b9b154eac4a4b0b
+      internalID: -5524766805851192524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tushies 3 bushies 3_4
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 170
+        width: 104
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0003fa8652f659c4998c726edf9117e6
+      internalID: 3550301589742157072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tushies 3 bushies 3_5
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 170
+        width: 104
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dcea56c0c942e4d985eed5487429b4
+      internalID: -7714338763560435845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tushies 3 bushies 3_6
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 170
+        width: 104
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fede8442a5baad84bb98a95cd9725617
+      internalID: -812791818324570715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tushies 3 bushies 3_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 101
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d64f0063aefc2d43bae7e8ad002f372
+      internalID: 7361155131086667879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tushies 3 bushies 3_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 101
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7936bd6c5021a204e924e10fc9e8644f
+      internalID: -2087886371295272845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tushies 3 bushies 3_9
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 101
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2788d64f82436c44bd7890d80bfae82
+      internalID: -1378272702993883912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tushies 3 bushies 3_10
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 101
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600727a21b9597f49abce5bf6a58f622
+      internalID: -8318115603772757816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tushies 3 bushies 3_11
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 101
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4730351caa12c84b8ed8a62fbbb1ba9
+      internalID: 8076110729880306084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tushies 3 bushies 3_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 101
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e39d05b931fe3a4ca53337b4f69a8e9
+      internalID: -7075810473198220754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tushies 3 bushies 3_13
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 101
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3ce4bb835e94f43b97359e5dc35cd2
+      internalID: 747012839133393992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tushies 3 bushies 3_10: -8318115603772757816
+      tushies 3 bushies 3_6: -812791818324570715
+      tushies 3 bushies 3_9: -1378272702993883912
+      tushies 3 bushies 3_7: 7361155131086667879
+      tushies 3 bushies 3_12: -7075810473198220754
+      tushies 3 bushies 3_1: 5634104697112624725
+      tushies 3 bushies 3_4: 3550301589742157072
+      tushies 3 bushies 3_8: -2087886371295272845
+      tushies 3 bushies 3_13: 747012839133393992
+      tushies 3 bushies 3_11: 8076110729880306084
+      tushies 3 bushies 3_5: -7714338763560435845
+      tushies 3 bushies 3_3: -5524766805851192524
+      tushies 3 bushies 3_2: 8684804046186478168
+      tushies 3 bushies 3_0: 136668335945472956
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

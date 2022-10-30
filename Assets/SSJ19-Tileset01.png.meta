@@ -1,0 +1,3322 @@
+fileFormatVersion: 2
+guid: 9c05b60b916863949b949aa33590ad6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4889539600144030513
+    second: SSJ19-Tileset01_0
+  - first:
+      213: 5126687603224724722
+    second: SSJ19-Tileset01_1
+  - first:
+      213: -4807896395131215574
+    second: SSJ19-Tileset01_2
+  - first:
+      213: -2558254494916509531
+    second: SSJ19-Tileset01_3
+  - first:
+      213: -6859017929709733378
+    second: SSJ19-Tileset01_4
+  - first:
+      213: -727569781039369315
+    second: SSJ19-Tileset01_5
+  - first:
+      213: -6605595362271338911
+    second: SSJ19-Tileset01_6
+  - first:
+      213: 7299320100526021543
+    second: SSJ19-Tileset01_7
+  - first:
+      213: -2592734175167721437
+    second: SSJ19-Tileset01_8
+  - first:
+      213: 9208767823982379006
+    second: SSJ19-Tileset01_9
+  - first:
+      213: 362873897257914115
+    second: SSJ19-Tileset01_10
+  - first:
+      213: 6332666971167733048
+    second: SSJ19-Tileset01_11
+  - first:
+      213: 3971374024031576188
+    second: SSJ19-Tileset01_12
+  - first:
+      213: -7275971568424592938
+    second: SSJ19-Tileset01_13
+  - first:
+      213: -1702716600321827560
+    second: SSJ19-Tileset01_14
+  - first:
+      213: -4930373027632542418
+    second: SSJ19-Tileset01_15
+  - first:
+      213: -6269788529942050578
+    second: SSJ19-Tileset01_16
+  - first:
+      213: -2622869920251828601
+    second: SSJ19-Tileset01_17
+  - first:
+      213: 1722655490062163954
+    second: SSJ19-Tileset01_18
+  - first:
+      213: -1440859054731171775
+    second: SSJ19-Tileset01_19
+  - first:
+      213: 2143632152976998067
+    second: SSJ19-Tileset01_20
+  - first:
+      213: -1182013768560105344
+    second: SSJ19-Tileset01_21
+  - first:
+      213: 602515912515288077
+    second: SSJ19-Tileset01_22
+  - first:
+      213: -5354818694708926191
+    second: SSJ19-Tileset01_23
+  - first:
+      213: -58169378034134833
+    second: SSJ19-Tileset01_24
+  - first:
+      213: 6137361116335051767
+    second: SSJ19-Tileset01_25
+  - first:
+      213: -3130282067882095451
+    second: SSJ19-Tileset01_26
+  - first:
+      213: 7430496212416937774
+    second: SSJ19-Tileset01_27
+  - first:
+      213: 913526785763035373
+    second: SSJ19-Tileset01_28
+  - first:
+      213: 3775773388368409561
+    second: SSJ19-Tileset01_29
+  - first:
+      213: -9073233255114565349
+    second: SSJ19-Tileset01_30
+  - first:
+      213: 3395902138277088692
+    second: SSJ19-Tileset01_31
+  - first:
+      213: 3893106375046930073
+    second: SSJ19-Tileset01_32
+  - first:
+      213: -2143602255673013786
+    second: SSJ19-Tileset01_33
+  - first:
+      213: 2699322903882347610
+    second: SSJ19-Tileset01_34
+  - first:
+      213: 1336199207425452705
+    second: SSJ19-Tileset01_35
+  - first:
+      213: 2070339672953304243
+    second: SSJ19-Tileset01_36
+  - first:
+      213: -8013225058054979900
+    second: SSJ19-Tileset01_37
+  - first:
+      213: 7872604831948313397
+    second: SSJ19-Tileset01_38
+  - first:
+      213: 8839619874084650756
+    second: SSJ19-Tileset01_39
+  - first:
+      213: 7539113653257878153
+    second: SSJ19-Tileset01_40
+  - first:
+      213: 8273130542334908676
+    second: SSJ19-Tileset01_41
+  - first:
+      213: -6902748821953487465
+    second: SSJ19-Tileset01_42
+  - first:
+      213: -2988794035250149194
+    second: SSJ19-Tileset01_43
+  - first:
+      213: -3798197949086930968
+    second: SSJ19-Tileset01_44
+  - first:
+      213: 5098808605791669468
+    second: SSJ19-Tileset01_45
+  - first:
+      213: -7598471169151668152
+    second: SSJ19-Tileset01_46
+  - first:
+      213: -992621513865550707
+    second: SSJ19-Tileset01_47
+  - first:
+      213: -5246059686883717540
+    second: SSJ19-Tileset01_48
+  - first:
+      213: 5669086324156255105
+    second: SSJ19-Tileset01_49
+  - first:
+      213: -5784677618664528516
+    second: SSJ19-Tileset01_50
+  - first:
+      213: -656135820900615397
+    second: SSJ19-Tileset01_51
+  - first:
+      213: -6676578056184095283
+    second: SSJ19-Tileset01_52
+  - first:
+      213: 112652919171524206
+    second: SSJ19-Tileset01_53
+  - first:
+      213: -7279148941293407915
+    second: SSJ19-Tileset01_54
+  - first:
+      213: 5994909429660386117
+    second: SSJ19-Tileset01_55
+  - first:
+      213: -5852109215531007077
+    second: SSJ19-Tileset01_56
+  - first:
+      213: 4816621309245912524
+    second: SSJ19-Tileset01_57
+  - first:
+      213: -6977342692192258711
+    second: SSJ19-Tileset01_58
+  - first:
+      213: -5595084650953403428
+    second: SSJ19-Tileset01_59
+  - first:
+      213: -3072795959466391930
+    second: SSJ19-Tileset01_60
+  - first:
+      213: 7524305192657878633
+    second: SSJ19-Tileset01_61
+  - first:
+      213: -6629716143861755356
+    second: SSJ19-Tileset01_62
+  - first:
+      213: -1417966656873098869
+    second: SSJ19-Tileset01_63
+  - first:
+      213: -8766991649714822265
+    second: SSJ19-Tileset01_64
+  - first:
+      213: -1968278811396463500
+    second: SSJ19-Tileset01_65
+  - first:
+      213: 1859319346357628693
+    second: SSJ19-Tileset01_66
+  - first:
+      213: 5286353994455004078
+    second: SSJ19-Tileset01_67
+  - first:
+      213: -5499266793361502892
+    second: SSJ19-Tileset01_68
+  - first:
+      213: -6967156947317951213
+    second: SSJ19-Tileset01_69
+  - first:
+      213: 8760680860628641681
+    second: SSJ19-Tileset01_70
+  - first:
+      213: 977053586675673912
+    second: SSJ19-Tileset01_71
+  - first:
+      213: 7071158951611152511
+    second: SSJ19-Tileset01_72
+  - first:
+      213: -8261199886323275410
+    second: SSJ19-Tileset01_73
+  - first:
+      213: -5499444283631340465
+    second: SSJ19-Tileset01_74
+  - first:
+      213: 6800464333313829948
+    second: SSJ19-Tileset01_75
+  - first:
+      213: -3824564332594570917
+    second: SSJ19-Tileset01_76
+  - first:
+      213: -4590786908523310045
+    second: SSJ19-Tileset01_77
+  - first:
+      213: 8964611828686268857
+    second: SSJ19-Tileset01_78
+  - first:
+      213: 4615742465028701151
+    second: SSJ19-Tileset01_79
+  - first:
+      213: 3334378443639636715
+    second: SSJ19-Tileset01_80
+  - first:
+      213: 2824913668934764926
+    second: SSJ19-Tileset01_81
+  - first:
+      213: 7341880290905117778
+    second: SSJ19-Tileset01_82
+  - first:
+      213: 8184873126916238314
+    second: SSJ19-Tileset01_83
+  - first:
+      213: -1573632381923548026
+    second: SSJ19-Tileset01_84
+  - first:
+      213: 5656744436317851332
+    second: SSJ19-Tileset01_85
+  - first:
+      213: 2784737055408431759
+    second: SSJ19-Tileset01_86
+  - first:
+      213: -1890973591647613293
+    second: SSJ19-Tileset01_87
+  - first:
+      213: -5677322328017910866
+    second: SSJ19-Tileset01_88
+  - first:
+      213: 6226669961499336253
+    second: SSJ19-Tileset01_89
+  - first:
+      213: -586992767926626996
+    second: SSJ19-Tileset01_90
+  - first:
+      213: -7319291451742056264
+    second: SSJ19-Tileset01_91
+  - first:
+      213: -6439783380645974412
+    second: SSJ19-Tileset01_92
+  - first:
+      213: -8730099609479107673
+    second: SSJ19-Tileset01_93
+  - first:
+      213: 487553734148425269
+    second: SSJ19-Tileset01_94
+  - first:
+      213: -251017239149181828
+    second: SSJ19-Tileset01_95
+  - first:
+      213: -1922546057777950975
+    second: SSJ19-Tileset01_96
+  - first:
+      213: -836033515072706951
+    second: SSJ19-Tileset01_97
+  - first:
+      213: -8816833244809609751
+    second: SSJ19-Tileset01_98
+  - first:
+      213: -8776131753197273322
+    second: SSJ19-Tileset01_99
+  - first:
+      213: 2585276969342770223
+    second: SSJ19-Tileset01_100
+  - first:
+      213: -1603637751769533654
+    second: SSJ19-Tileset01_101
+  - first:
+      213: 5907474608380558080
+    second: SSJ19-Tileset01_102
+  - first:
+      213: 9175982136965840801
+    second: SSJ19-Tileset01_103
+  - first:
+      213: -3531669871993030003
+    second: SSJ19-Tileset01_104
+  - first:
+      213: -8910316450904757299
+    second: SSJ19-Tileset01_105
+  - first:
+      213: 3061328706484407575
+    second: SSJ19-Tileset01_106
+  - first:
+      213: 1425782138288308968
+    second: SSJ19-Tileset01_107
+  - first:
+      213: -1880800246400755972
+    second: SSJ19-Tileset01_108
+  - first:
+      213: 4524038759709115493
+    second: SSJ19-Tileset01_109
+  - first:
+      213: 5800729239203790833
+    second: SSJ19-Tileset01_110
+  - first:
+      213: -1599144465121854985
+    second: SSJ19-Tileset01_111
+  - first:
+      213: 3519863169822313467
+    second: SSJ19-Tileset01_112
+  - first:
+      213: -6119922811876410660
+    second: SSJ19-Tileset01_113
+  - first:
+      213: -4020550924842888377
+    second: SSJ19-Tileset01_114
+  - first:
+      213: -5233530948034896859
+    second: SSJ19-Tileset01_115
+  - first:
+      213: -2290842447004283939
+    second: SSJ19-Tileset01_116
+  - first:
+      213: 1070060077139118433
+    second: SSJ19-Tileset01_117
+  - first:
+      213: 2586992122753090671
+    second: SSJ19-Tileset01_118
+  - first:
+      213: 2067217419218971134
+    second: SSJ19-Tileset01_119
+  - first:
+      213: 828575730879579864
+    second: SSJ19-Tileset01_120
+  - first:
+      213: 8256662649570248198
+    second: SSJ19-Tileset01_121
+  - first:
+      213: 1277693772861425416
+    second: SSJ19-Tileset01_122
+  - first:
+      213: 7996197983117483564
+    second: SSJ19-Tileset01_123
+  - first:
+      213: 1686291372310932692
+    second: SSJ19-Tileset01_124
+  - first:
+      213: 2262445813817589442
+    second: SSJ19-Tileset01_125
+  - first:
+      213: -8832893243171661827
+    second: SSJ19-Tileset01_126
+  - first:
+      213: -5587250684302402444
+    second: SSJ19-Tileset01_127
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b5ac54c522bd340800000000000000
+      internalID: 4889539600144030513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4cb987637a52740800000000000000
+      internalID: 5126687603224724722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21a253b3bbe64db0800000000000000
+      internalID: -4807896395131215574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0847157114f7cd0800000000000000
+      internalID: -2558254494916509531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9bd97988fdfc0a0800000000000000
+      internalID: -6859017929709733378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93f6d3932727e5f0800000000000000
+      internalID: -727569781039369315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e59d514063454a0800000000000000
+      internalID: -6605595362271338911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abd8bd35f46c4560800000000000000
+      internalID: 7299320100526021543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320dc1c2102c40cd0800000000000000
+      internalID: -2592734175167721437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff3487bb8d1ccf70800000000000000
+      internalID: 9208767823982379006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fc15013ef290500800000000000000
+      internalID: 362873897257914115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8353d41fe0722e750800000000000000
+      internalID: 6332666971167733048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70ad9432a72d1730800000000000000
+      internalID: 3971374024031576188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9d534886e860b90800000000000000
+      internalID: -7275971568424592938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d18acf54cbe58e0800000000000000
+      internalID: -1702716600321827560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d8bc58adbc39bb0800000000000000
+      internalID: -4930373027632542418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee84cfffc8c3df8a0800000000000000
+      internalID: -6269788529942050578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786255f34b1b99bd0800000000000000
+      internalID: -2622869920251828601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff188b8a0a18e710800000000000000
+      internalID: 1722655490062163954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148e75fd25a010ce0800000000000000
+      internalID: -1440859054731171775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bebc4fe516bfbd10800000000000000
+      internalID: 2143632152976998067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088aa557db4a89fe0800000000000000
+      internalID: -1182013768560105344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c7ef8b7019c5800800000000000000
+      internalID: 602515912515288077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119e049a4ccdfa5b0800000000000000
+      internalID: -5354818694708926191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc058754247513ff0800000000000000
+      internalID: -58169378034134833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3127d0b694c2550800000000000000
+      internalID: 6137361116335051767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5accc115b010f84d0800000000000000
+      internalID: -3130282067882095451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f3ffdcfec6e1760800000000000000
+      internalID: 7430496212416937774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8c53685cf7dac00800000000000000
+      internalID: 913526785763035373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3721e44ed366430800000000000000
+      internalID: 3775773388368409561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1992a03d66651280800000000000000
+      internalID: -9073233255114565349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdcef3a00ba02f20800000000000000
+      internalID: 3395902138277088692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e1b7d1f97170630800000000000000
+      internalID: 3893106375046930073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e942e21b156042e0800000000000000
+      internalID: -2143602255673013786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54bbf321ebe57520800000000000000
+      internalID: 2699322903882347610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaa0c389122b8210800000000000000
+      internalID: 1336199207425452705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4b7c2a6f25bbc10800000000000000
+      internalID: 2070339672953304243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cebf5df34e4bc090800000000000000
+      internalID: -8013225058054979900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5339d41426c114d60800000000000000
+      internalID: 7872604831948313397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f7c40f073acaa70800000000000000
+      internalID: 8839619874084650756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98abbb77cef40a860800000000000000
+      internalID: 7539113653257878153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4099e44356010d270800000000000000
+      internalID: 8273130542334908676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d57bdc4828430a0800000000000000
+      internalID: -6902748821953487465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8cb1609aba586d0800000000000000
+      internalID: -2988794035250149194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e76e0ac6171a4bc0800000000000000
+      internalID: -3798197949086930968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdccaed896b92c640800000000000000
+      internalID: 5098808605791669468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840faa6eabecc8690800000000000000
+      internalID: -7598471169151668152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8422a50eff7932f0800000000000000
+      internalID: -992621513865550707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e8cc472804237b0800000000000000
+      internalID: -5246059686883717540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bcb58c9f3acae40800000000000000
+      internalID: 5669086324156255105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c752957ba52b8bfa0800000000000000
+      internalID: -5784677618664528516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b3fce72ffe4e6f0800000000000000
+      internalID: -656135820900615397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd9af5c1a70853a0800000000000000
+      internalID: -6676578056184095283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66212eab39309100800000000000000
+      internalID: 112652919171524206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551bb0fba944bfa90800000000000000
+      internalID: -7279148941293407915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5430c872d52323350800000000000000
+      internalID: 5994909429660386117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b930c7d9ca129cea0800000000000000
+      internalID: -5852109215531007077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5fd2baf8318d240800000000000000
+      internalID: 4816621309245912524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96576bbf9cf7b2f90800000000000000
+      internalID: -6977342692192258711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd39eab67244a52b0800000000000000
+      internalID: -5595084650953403428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68600c0fa5c3b55d0800000000000000
+      internalID: -3072795959466391930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96efffd05b3bb6860800000000000000
+      internalID: 7524305192657878633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422927bfa448ef3a0800000000000000
+      internalID: -6629716143861755356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b811bb996de525ce0800000000000000
+      internalID: -1417966656873098869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783aee94b83655680800000000000000
+      internalID: -8766991649714822265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47429c379d44fa4e0800000000000000
+      internalID: -1968278811396463500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f68ab2811adc910800000000000000
+      internalID: 1859319346357628693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3357c13f6ec5940800000000000000
+      internalID: 5286353994455004078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d0690ecfdaea3b0800000000000000
+      internalID: -5499266793361502892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315f7b48bafaf4f90800000000000000
+      internalID: -6967156947317951213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1976550a3d0349970800000000000000
+      internalID: 8760680860628641681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b23587f013f8d00800000000000000
+      internalID: 977053586675673912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f783b151a9dc12260800000000000000
+      internalID: 7071158951611152511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69243d19725a5d80800000000000000
+      internalID: -8261199886323275410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44f914bf8c0ea3b0800000000000000
+      internalID: -5499444283631340465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_75
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c62eed74a106e50800000000000000
+      internalID: 6800464333313829948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59521fb00b6ceac0800000000000000
+      internalID: -3824564332594570917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_77
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32454f531af3a40c0800000000000000
+      internalID: -4590786908523310045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_78
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b92c1e26f2b86c70800000000000000
+      internalID: 8964611828686268857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_79
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbb8b211596e0040800000000000000
+      internalID: 4615742465028701151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be24cd73787164e20800000000000000
+      internalID: 3334378443639636715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79800ec30c143720800000000000000
+      internalID: 2824913668934764926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25457d2c93993e560800000000000000
+      internalID: 7341880290905117778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebab7d5eb2869170800000000000000
+      internalID: 8184873126916238314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6842564afa5592ae0800000000000000
+      internalID: -1573632381923548026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce84e7181bc08e40800000000000000
+      internalID: 5656744436317851332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82ac74099f55a620800000000000000
+      internalID: 2784737055408431759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e03368989e1c5e0800000000000000
+      internalID: -1890973591647613293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea349132c691631b0800000000000000
+      internalID: -5677322328017910866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e53c4f653996650800000000000000
+      internalID: 6226669961499336253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_90
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45920600359ad7f0800000000000000
+      internalID: -586992767926626996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_91
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b09c533437ac6a90800000000000000
+      internalID: -7319291451742056264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ee12e722b41a6a0800000000000000
+      internalID: -6439783380645974412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_93
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aba833c8a478d680800000000000000
+      internalID: -8730099609479107673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_94
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53605dcb98324c600800000000000000
+      internalID: 487553734148425269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_95
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c748304a625348cf0800000000000000
+      internalID: -251017239149181828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f41d9eb8eb155e0800000000000000
+      internalID: -1922546057777950975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97625c192ffc564f0800000000000000
+      internalID: -836033515072706951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edb44f90e054a580800000000000000
+      internalID: -8816833244809609751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f76ac1baae43680800000000000000
+      internalID: -8776131753197273322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c9cabc4bfb0e320800000000000000
+      internalID: 2585276969342770223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23fe5116fbbeb9e0800000000000000
+      internalID: -1603637751769533654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bb9207bd09bf150800000000000000
+      internalID: 5907474608380558080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_103
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afbd2b1323a75f70800000000000000
+      internalID: 9175982136965840801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8af7e786fcfcfec0800000000000000
+      internalID: -3531669871993030003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_105
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcba0839562385480800000000000000
+      internalID: -8910316450904757299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_106
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d85ba2d360c7a20800000000000000
+      internalID: 3061328706484407575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_107
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e285c7fc4569c310800000000000000
+      internalID: 1425782138288308968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6d0db042e06e5e0800000000000000
+      internalID: -1880800246400755972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_109
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5648f86584d98ce30800000000000000
+      internalID: 4524038759709115493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_110
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffb6fc6284508050800000000000000
+      internalID: 5800729239203790833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f931e3e492bec9e0800000000000000
+      internalID: -1599144465121854985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb4d3767e019d030800000000000000
+      internalID: 3519863169822313467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdafb4990aaa11ba0800000000000000
+      internalID: -6119922811876410660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7431f535c322438c0800000000000000
+      internalID: -4020550924842888377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cdd59c453ce57b0800000000000000
+      internalID: -5233530948034896859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb4ced8eea4530e0800000000000000
+      internalID: -2290842447004283939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_117
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169443288fd99de00800000000000000
+      internalID: 1070060077139118433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_118
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f648e6111a7d6e320800000000000000
+      internalID: 2586992122753090671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_119
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9eb0a4a4b30bc10800000000000000
+      internalID: 2067217419218971134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6469cbc31bf7b00800000000000000
+      internalID: 828575730879579864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_121
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606ced12fee859270800000000000000
+      internalID: 8256662649570248198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807422787b74bb110800000000000000
+      internalID: 1277693772861425416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_123
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e996133b338fe60800000000000000
+      internalID: 7996197983117483564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_124
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc266a9119e66710800000000000000
+      internalID: 1686291372310932692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_125
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceba201b72d56f10800000000000000
+      internalID: 2262445813817589442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_126
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df71ecdd4624b6580800000000000000
+      internalID: -8832893243171661827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSJ19-Tileset01_127
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cd81bea191672b0800000000000000
+      internalID: -5587250684302402444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SSJ19-Tileset01_37: -8013225058054979900
+      SSJ19-Tileset01_48: -5246059686883717540
+      SSJ19-Tileset01_12: 3971374024031576188
+      SSJ19-Tileset01_66: 1859319346357628693
+      SSJ19-Tileset01_9: 9208767823982379006
+      SSJ19-Tileset01_105: -8910316450904757299
+      SSJ19-Tileset01_4: -6859017929709733378
+      SSJ19-Tileset01_34: 2699322903882347610
+      SSJ19-Tileset01_103: 9175982136965840801
+      SSJ19-Tileset01_110: 5800729239203790833
+      SSJ19-Tileset01_122: 1277693772861425416
+      SSJ19-Tileset01_6: -6605595362271338911
+      SSJ19-Tileset01_53: 112652919171524206
+      SSJ19-Tileset01_87: -1890973591647613293
+      SSJ19-Tileset01_118: 2586992122753090671
+      SSJ19-Tileset01_33: -2143602255673013786
+      SSJ19-Tileset01_29: 3775773388368409561
+      SSJ19-Tileset01_80: 3334378443639636715
+      SSJ19-Tileset01_18: 1722655490062163954
+      SSJ19-Tileset01_51: -656135820900615397
+      SSJ19-Tileset01_14: -1702716600321827560
+      SSJ19-Tileset01_92: -6439783380645974412
+      SSJ19-Tileset01_10: 362873897257914115
+      SSJ19-Tileset01_2: -4807896395131215574
+      SSJ19-Tileset01_39: 8839619874084650756
+      SSJ19-Tileset01_1: 5126687603224724722
+      SSJ19-Tileset01_102: 5907474608380558080
+      SSJ19-Tileset01_112: 3519863169822313467
+      SSJ19-Tileset01_106: 3061328706484407575
+      SSJ19-Tileset01_124: 1686291372310932692
+      SSJ19-Tileset01_64: -8766991649714822265
+      SSJ19-Tileset01_59: -5595084650953403428
+      SSJ19-Tileset01_95: -251017239149181828
+      SSJ19-Tileset01_57: 4816621309245912524
+      SSJ19-Tileset01_31: 3395902138277088692
+      SSJ19-Tileset01_88: -5677322328017910866
+      SSJ19-Tileset01_75: 6800464333313829948
+      SSJ19-Tileset01_98: -8816833244809609751
+      SSJ19-Tileset01_13: -7275971568424592938
+      SSJ19-Tileset01_46: -7598471169151668152
+      SSJ19-Tileset01_72: 7071158951611152511
+      SSJ19-Tileset01_79: 4615742465028701151
+      SSJ19-Tileset01_91: -7319291451742056264
+      SSJ19-Tileset01_109: 4524038759709115493
+      SSJ19-Tileset01_111: -1599144465121854985
+      SSJ19-Tileset01_85: 5656744436317851332
+      SSJ19-Tileset01_62: -6629716143861755356
+      SSJ19-Tileset01_43: -2988794035250149194
+      SSJ19-Tileset01_32: 3893106375046930073
+      SSJ19-Tileset01_73: -8261199886323275410
+      SSJ19-Tileset01_36: 2070339672953304243
+      SSJ19-Tileset01_126: -8832893243171661827
+      SSJ19-Tileset01_61: 7524305192657878633
+      SSJ19-Tileset01_114: -4020550924842888377
+      SSJ19-Tileset01_108: -1880800246400755972
+      SSJ19-Tileset01_22: 602515912515288077
+      SSJ19-Tileset01_120: 828575730879579864
+      SSJ19-Tileset01_125: 2262445813817589442
+      SSJ19-Tileset01_5: -727569781039369315
+      SSJ19-Tileset01_25: 6137361116335051767
+      SSJ19-Tileset01_89: 6226669961499336253
+      SSJ19-Tileset01_54: -7279148941293407915
+      SSJ19-Tileset01_8: -2592734175167721437
+      SSJ19-Tileset01_11: 6332666971167733048
+      SSJ19-Tileset01_93: -8730099609479107673
+      SSJ19-Tileset01_123: 7996197983117483564
+      SSJ19-Tileset01_60: -3072795959466391930
+      SSJ19-Tileset01_100: 2585276969342770223
+      SSJ19-Tileset01_41: 8273130542334908676
+      SSJ19-Tileset01_107: 1425782138288308968
+      SSJ19-Tileset01_3: -2558254494916509531
+      SSJ19-Tileset01_20: 2143632152976998067
+      SSJ19-Tileset01_24: -58169378034134833
+      SSJ19-Tileset01_45: 5098808605791669468
+      SSJ19-Tileset01_117: 1070060077139118433
+      SSJ19-Tileset01_55: 5994909429660386117
+      SSJ19-Tileset01_16: -6269788529942050578
+      SSJ19-Tileset01_70: 8760680860628641681
+      SSJ19-Tileset01_35: 1336199207425452705
+      SSJ19-Tileset01_47: -992621513865550707
+      SSJ19-Tileset01_21: -1182013768560105344
+      SSJ19-Tileset01_49: 5669086324156255105
+      SSJ19-Tileset01_81: 2824913668934764926
+      SSJ19-Tileset01_113: -6119922811876410660
+      SSJ19-Tileset01_63: -1417966656873098869
+      SSJ19-Tileset01_104: -3531669871993030003
+      SSJ19-Tileset01_119: 2067217419218971134
+      SSJ19-Tileset01_74: -5499444283631340465
+      SSJ19-Tileset01_121: 8256662649570248198
+      SSJ19-Tileset01_58: -6977342692192258711
+      SSJ19-Tileset01_127: -5587250684302402444
+      SSJ19-Tileset01_30: -9073233255114565349
+      SSJ19-Tileset01_84: -1573632381923548026
+      SSJ19-Tileset01_38: 7872604831948313397
+      SSJ19-Tileset01_83: 8184873126916238314
+      SSJ19-Tileset01_15: -4930373027632542418
+      SSJ19-Tileset01_52: -6676578056184095283
+      SSJ19-Tileset01_23: -5354818694708926191
+      SSJ19-Tileset01_82: 7341880290905117778
+      SSJ19-Tileset01_7: 7299320100526021543
+      SSJ19-Tileset01_42: -6902748821953487465
+      SSJ19-Tileset01_77: -4590786908523310045
+      SSJ19-Tileset01_96: -1922546057777950975
+      SSJ19-Tileset01_67: 5286353994455004078
+      SSJ19-Tileset01_76: -3824564332594570917
+      SSJ19-Tileset01_56: -5852109215531007077
+      SSJ19-Tileset01_90: -586992767926626996
+      SSJ19-Tileset01_116: -2290842447004283939
+      SSJ19-Tileset01_99: -8776131753197273322
+      SSJ19-Tileset01_65: -1968278811396463500
+      SSJ19-Tileset01_101: -1603637751769533654
+      SSJ19-Tileset01_44: -3798197949086930968
+      SSJ19-Tileset01_115: -5233530948034896859
+      SSJ19-Tileset01_68: -5499266793361502892
+      SSJ19-Tileset01_97: -836033515072706951
+      SSJ19-Tileset01_17: -2622869920251828601
+      SSJ19-Tileset01_19: -1440859054731171775
+      SSJ19-Tileset01_71: 977053586675673912
+      SSJ19-Tileset01_27: 7430496212416937774
+      SSJ19-Tileset01_50: -5784677618664528516
+      SSJ19-Tileset01_28: 913526785763035373
+      SSJ19-Tileset01_40: 7539113653257878153
+      SSJ19-Tileset01_26: -3130282067882095451
+      SSJ19-Tileset01_69: -6967156947317951213
+      SSJ19-Tileset01_78: 8964611828686268857
+      SSJ19-Tileset01_94: 487553734148425269
+      SSJ19-Tileset01_0: 4889539600144030513
+      SSJ19-Tileset01_86: 2784737055408431759
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
